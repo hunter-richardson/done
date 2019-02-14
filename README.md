@@ -19,7 +19,7 @@ After installing you could type, for instance `sleep 6`, and start using other a
 
 ## Installation
 
-#### Using [Fisher](https://github.com/danhper/fundle)
+#### Using [Fundel](https://github.com/danhper/fundle)
 
 ```fish
 fundle plugin 'hunter-richardson/done'
