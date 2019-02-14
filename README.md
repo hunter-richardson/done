@@ -19,17 +19,10 @@ After installing you could type, for instance `sleep 6`, and start using other a
 
 ## Installation
 
-#### Using [Fisher](https://github.com/jorgebucaran/fisher)
+#### Using [Fisher](https://github.com/danhper/fundle)
 
 ```fish
-fisher add franciscolourenco/done
-```
-
-#### Manually
-
-```fish
-curl -Lo ~/.config/fish/functions/humanize_duration.fish --create-dirs https://raw.githubusercontent.com/fishpkg/fish-humanize-duration/master/humanize_duration.fish
-curl -Lo ~/.config/fish/conf.d/done.fish --create-dirs https://raw.githubusercontent.com/franciscolourenco/done/master/conf.d/done.fish
+fundle plugin 'hunter-richardson/done'
 ```
 
 ## Dependencies
@@ -43,7 +36,7 @@ brew install terminal-notifier
 ## Updating
 
 ```fish
-fisher
+fundle self-update; and fundle clean; and fundle update
 ```
 
 [Subscribe](http://eepurl.com/cAcU3P) to the newsletter to be notified of new versions.
