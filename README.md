@@ -1,5 +1,3 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/hunter-richardson/done/badge)](https://www.codefactor.io/repository/github/hunter-richardson/done)
-
 <h1 align="center">
   <img src="https://i.imgur.com/0LElCjU.png" alt="done" width="300"></a>
   <br>
