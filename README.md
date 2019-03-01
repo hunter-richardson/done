@@ -22,7 +22,7 @@ After installing you could type, for instance `sleep 6`, and start using other a
 #### Using [Fundel](https://github.com/danhper/fundle)
 
 ```fish
-fundle plugin 'hunter-richardson/done'
+fundle plugin 'hunter-richardson/fish-done'
 ```
 
 ## Dependencies
